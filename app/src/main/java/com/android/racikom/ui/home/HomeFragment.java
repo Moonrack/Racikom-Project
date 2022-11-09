@@ -62,8 +62,6 @@ public class HomeFragment extends Fragment {
 
         newsHeading = new String[]{
 
-                getString(R.string.head_1),
-                getString(R.string.head_2),
                 getString(R.string.head_3),
                 getString(R.string.head_4),
                 getString(R.string.head_5),
@@ -74,8 +72,6 @@ public class HomeFragment extends Fragment {
         };
 
         imageResourceID = new int[]{
-                R.drawable.a,
-                R.drawable.b,
                 R.drawable.c,
                 R.drawable.d,
                 R.drawable.e,

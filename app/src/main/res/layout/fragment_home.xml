@@ -114,7 +114,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/news"
+            android:id="@+id/berita"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:textColor="@color/black"
@@ -152,7 +152,7 @@
             android:layout_height="80dp"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/a"
+            android:src="@drawable/b"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:shapeAppearanceOverlay="@style/RoundCorner" />
@@ -165,7 +165,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="32dp"
             android:fontFamily="@font/poppins_bold"
-            android:text="RTX 4000 Series"
+            android:text="AMD RYZEN 7000 Series"
             android:textColor="@color/black"
             android:textSize="11dp"
             app:layout_constraintEnd_toEndOf="parent"
@@ -180,7 +180,7 @@
             android:layout_marginTop="25dp"
             android:layout_marginEnd="32dp"
             android:fontFamily="@font/poppins_light"
-            android:text="The NVIDIA® GeForce RTX® 4090 is the ultimate GeForce GPU. It brings an enormous leap in performance, efficiency, and AI-powered graphics."
+            android:text="Welcome to the new era of performance. AMD Ryzen 7000 Series ushers in the speed of “Zen 4” for gamers and creators with pure power to tackle any game or workflow on the digital playground."
             android:textColor="@color/black"
             android:textSize="10dp"
             app:layout_constraintEnd_toEndOf="parent"
