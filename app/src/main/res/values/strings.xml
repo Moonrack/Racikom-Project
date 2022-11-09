@@ -23,8 +23,118 @@
     <string name="head_6">Best Motherboard AM5</string>
     <string name="head_7">Recommendation DDR5 RAM</string>
     <string name="head_8">Best Budget PC for 1440p Gaming</string>
+    <string name="proc">Select Processor</string>
+    <string name="mobo">Select Motherboard</string>
+    <string name="ram">Select RAM</string>
+    <string name="casing">Select Casing</string>
+    <string name="hdd">Select Harddisk</string>
+    <string name="ssd">Select SSD</string>
+    <string name="vga">Select VGA</string>
+    <string name="psu">Select PSU</string>
+    <string name="moni">Select Monitor</string>
+    <string name="cpu">Select CPU Cooler</string>
+    <string name="cooler">Select Cooler Fan</string>
 
 
+    <string-array name="proc">
+        <item>Select Processor..</item>
+        <item>Ryzen 9 7950X – 16 cores, 32 threads, 5.7GHz max clock speed, 80Mb cache, 170W TDP</item>
+        <item>Ryzen 9 7900X – 12 cores, 24 threads, 5.6GHz max clock speed, 76Mb cache, 170W TDP</item>
+        <item>Ryzen 7 7700X – 8 cores, 16 threads, 5.4GHz max clock speed, 40Mb cache, 105W TDP</item>
+        <item>Ryzen 5 7600X – 6 cores, 12 threads, 5.3GHz max clock speed, 38Mb cache, 105W TDP</item>
+    </string-array>
+    
+    <string-array name="mobo">
+        <item>Select Motherboard..</item>
+        <item>ASRock X670E Taichi </item>
+        <item>ASUS ROG CROSSHAIR X670E EXTREME </item>
+        <item>BIOSTAR X670E VALKYRIE </item>
+        <item>GIGABYTE X670E AORUS XTREME </item>
+        <item>MSI MEG X670E ACE </item>
+    </string-array>
 
+    <string-array name="ram">
+        <item>Select RAM..</item>
+        <item>Corsair Dominator Platinum RGB DDR5 </item>
+        <item>G.Skill Trident Z RGB DDR5 </item>
+        <item>Corsair Vengeance DDR5 </item>
+        <item>GeIL Polaris RGB DDR5 </item>
+        <item>Crucial DDR5 4800Mhz </item>
+    </string-array>
+
+    <string-array name="casing">
+        <item>Select Case..</item>
+        <item>Cooler Master Cosmos C700M</item>
+        <item>Corsair Carbide 275R</item>
+        <item>NZXT H1 V2</item>
+        <item>Phanteks Evolv X</item>
+        <item>Corsair iCUE 5000T RGB</item>
+        <item>Cooler Master Silencio S600</item>
+    </string-array>
+
+    <string-array name="hdd">
+        <item>Select Harddisk..</item>
+        <item>Seagate BarraCuda</item>
+        <item>Western Digital Blue Desktop</item>
+        <item>Toshiba X300</item>
+        <item>WD VelociRaptor</item>
+        <item>Seagate Firecuda Desktop</item>
+        <item>Seagate IronWolf NAS</item>
+    </string-array>
+
+    <string-array name="ssd">
+        <item>Select SSD..</item>
+        <item>WD Black SN850X NVMe SSD</item>
+        <item>SK Hynix Platinum P41</item>
+        <item>Samsung SSD 980 Pro</item>
+        <item>ADATA XPG Atom 50</item>
+        <item>HP FX900 PCIe 4.0 M.2 SSD</item>
+    </string-array>
+
+    <string-array name="vga">
+        <item>Select VGA..</item>
+        <item>EVGA RTX 3060 XC Black</item>
+        <item>Nvidia GeForce RTX 3080 Ti Founders Edition</item>
+        <item>XFX Speedster SWFT319 AMD Radeon RX 6800</item>
+        <item>Asus TUF Gaming RTX 3070</item>
+        <item>MSI Gaming Radeon RX 6800 XT</item>
+        <item>MSI RTX 3080 Gaming X Trio</item>
+    </string-array>
+
+    <string-array name="psu">
+        <item>Select PSU..</item>
+        <item>Corsair RM750x (2021)</item>
+        <item>Seasonic Prime Titanium TX-1000</item>
+        <item>XPG Pylon 450</item>
+        <item>BeQuiet! Pure Power 11 FM 550W</item>
+        <item>SilverStone SX1000 Platinum</item>
+    </string-array>
+
+    <string-array name="monitor">
+        <item>Select Monitor..</item>
+        <item>Alienware 34 QD-OLED (AW3423DW)</item>
+        <item>LG 27GN950-B</item>
+        <item>Gigabyte G27Q</item>
+        <item>MSI Oculux NXG253R</item>
+        <item>Acer Predator X38</item>
+        <item>Samsung Odyssey Neo G9</item>
+    </string-array>
+
+    <string-array name="cpu">
+        <item>Select CPU Cooler..</item>
+        <item>Corsair iCUE H150i Elite Capellix</item>
+        <item>Arctic Liquid Freezer II 280 A-RGB</item>
+        <item>Noctua NH-U14S</item>
+        <item>Be quiet! Pure Loop 240mm</item>
+    </string-array>
+
+    <string-array name="cooler">
+        <item>Select Fan Cooler..</item>
+        <item>Noctua NF-S12B redux-1200</item>
+        <item>Corsair LL120 RGB</item>
+        <item>Cooler Master MF120R A-RGB</item>
+        <item>Thermaltake Toughfan 12 Turbo</item>
+        <item>Noctua NF-A12x25 PWM</item>
+    </string-array>
 
 </resources>
