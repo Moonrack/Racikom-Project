@@ -193,7 +193,50 @@
             android:text="About Racikom.Id"
             />
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left"
+            android:layout_marginTop="600dp"
+            android:src="@drawable/browser" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="600dp"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="@dimen/text_left"
+            android:text="Blog"/>
 
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left"
+            android:layout_marginTop="640dp"
+            android:src="@drawable/buku" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="640dp"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="@dimen/text_left"
+            android:text="How It Works"/>
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left"
+            android:layout_marginTop="680dp"
+            android:src="@drawable/help" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="680dp"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="@dimen/text_left"
+            android:text="Help"/>
 
     </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
