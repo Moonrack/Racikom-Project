@@ -8,17 +8,17 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-        <string name="rv">RecyclerViewFragmentJYT</string>
+    <string name="rv">RecyclerViewFragmentJYT</string>
 
-        <string name="news_c">Intel 13th-Gen Raptor Lake processors will bring more cores, more connectivity, a revamped core architecture, support for PCIe 5.0 SSDs, and even an officially-verified 6.0 GHz peak boost clock to bear. </string>
-        <string name="news_d">The Intel Arc A770 graphics card has finally arrived, along with its little brother, the Intel Arc A750. After a rather disappointing Arc A380 review last month, Intel has a lot to prove with the bigger and far more potent A770. </string>
+    <string name="news_c">Intel 13th-Gen Raptor Lake processors will bring more cores, more connectivity, a revamped core architecture, support for PCIe 5.0 SSDs, and even an officially-verified 6.0 GHz peak boost clock to bear. </string>
+    <string name="news_d">The Intel Arc A770 graphics card has finally arrived, along with its little brother, the Intel Arc A750. After a rather disappointing Arc A380 review last month, Intel has a lot to prove with the bigger and far more potent A770. </string>
     <string name="news_e">We track current GPU prices on all the best graphics cards and the latest additions to our GPU benchmarks hierarchy. We scrape eBay sales data to get details on what sort of prices people are paying for GPUs.  </string>
     <string name="news_f">The arrival of Zen 4 CPUs signifies a tectonic shift in the home computing landscape. The 7000-series brings not only generational uplift that ranges from excellent to staggering, it introduces a host of new technologies for AMD lovers to put them on equal footing with Alder and Raptor Lake users. </string>
     <string name="news_g">If you on the hunt for the best DDR5 RAM to pair with your shiny new Intel 12th Gen system, you come to the right place. We tested many DDR5 memory kits over the last few months ourselves and we picked out the top kits, at different price points, to suit systems at any price point. </string>
     <string name="news_h">1440p gaming might seem impossible on a budget, but the Corsair Vengeance a7200 is a fantastic, albeit limited, deal we could find for $1,649. This gaming PC comes fully loaded with an AMD Ryzen 5 5600X and Nvidia RTX 3060 Ti to make your QHD gaming dreams a reality. </string>
 
-        <string name="head_3">Intel 13th gen Series</string>
-        <string name="head_4">Intel Arc A770 Limited Edition</string>
+    <string name="head_3">Intel 13th gen Series</string>
+    <string name="head_4">Intel Arc A770 Limited Edition</string>
     <string name="head_5">GPU Prices 2022: October Update</string>
     <string name="head_6">Best Motherboard AM5</string>
     <string name="head_7">Recommendation DDR5 RAM</string>
@@ -43,7 +43,7 @@
         <item>Ryzen 7 7700X – 8 cores, 16 threads, 5.4GHz max clock speed, 40Mb cache, 105W TDP</item>
         <item>Ryzen 5 7600X – 6 cores, 12 threads, 5.3GHz max clock speed, 38Mb cache, 105W TDP</item>
     </string-array>
-    
+
     <string-array name="mobo">
         <item>Select Motherboard..</item>
         <item>ASRock X670E Taichi </item>
